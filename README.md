@@ -9,5 +9,5 @@ This projects uses the transportation network company (TNC) data released by the
 - tnc_data_report.ipynb: the codes that I've used to create all the visualizations
 - data used in tnc_data_report.ipynb: the transportation network companies (TNC) data is readily availble from https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips/m6dm-c72p. The data I used was downloaded from the website on 2019 Oct 21st. The data is regularly updated on the Chicago Data Portal and can be downloaded easily.
 
-**Recommendation**:
+**Recommendation**:  
 For anyone who's interested in learning more about how to visualize geo-spatial data, I recommend a great course here: https://automating-gis-processes.github.io/site/. I learned everything from this course.
