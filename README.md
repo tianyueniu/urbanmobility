@@ -4,7 +4,13 @@
 **About**:  
 This projects uses the transportation network company (TNC) data released by the city of chicago to replicate a CMAP study on transportation in python (originally done in R). The project  provides an overview of the demand of Uber/Lyft in the different areas of Chicago. Large-scale computing techniques were applied to process 100+ million rows of data. It was found that economic status can significantly impact people's ride-hailing choices.
 
-**Packages Required**  
+**Topics Explored**:  
+Topic 1: General Demand for Ride-Hailing Services  
+Topic 2: Geographic Distribution of Ride-Hailing Services  
+Topic 3: Evaluation of Congestion  
+Topic 4: Evaluation of Ride-Sharing   
+
+**Packages Required**:   
 dask, geopandas, pandas, shapeley, numpy, seaborn, matplotlib and urllib.   
 
 **Files**:  
